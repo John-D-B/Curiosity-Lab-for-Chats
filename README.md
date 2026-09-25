@@ -1,9 +1,9 @@
-# Curiosity Lab for Claude
+# Curiosity Lab for Chats
 [![License: BUSL-1.1](images/license-badge.svg)](LICENSE)
 
 *Curiosity killed the cat. Satisfaction brought him back.*<br/>
 
-**Curiosity Lab for Claude** is a Python Chat app, a front-end to the Anthropic API engine.
+**Curiosity Lab for Chats** is a Python Chat app, a front-end to the Anthropic API engine and other LLMs.
 1. Press **Send** to get a fast, cheap response.
 2. Change menu entries (**Model, Persona, Curiosity**), or **Prompt** text, press Send.
 3. Select a **Demo**, press Send.
@@ -16,6 +16,8 @@
 <br/>
 
 ## 1. Overview
+
+*Formerly known as "Curiosity Lab for Claude".*
 
 This project was inspired by an article in the **New York Times**:<br/>
 &nbsp; &nbsp; *We Are Losing the Ability to Discover What We Didn’t Know to Ask.*<br/>
@@ -30,7 +32,7 @@ But **curiosity is a practice**, not a prescription.<br/>
 Nothing stops anyone from asking for the detours — sources, counterpoints, adjacent questions.<br/>
 So, why not build this practice into **Add Curiosity** buttons?
 
-**Curiosity Lab for Claude** is simple to use and self-explanatory,<br/>
+**Curiosity Lab for Chats** is simple to use and self-explanatory,<br/>
 &nbsp; &nbsp; with **demos** and **curiosity menus**.
 
 <br/>
